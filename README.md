@@ -9,7 +9,9 @@ This project will likely take up to two hours. You are not timed and can take as
 2. Create a new angular project
 3. Use the open weather API to retrieve weather information on at least 10 cities
 4. Populate a table within the app with this data
-5. Introduce pagination, sortable columns and a filter for searching by city name
+5. Introduce configurable pagination (rows of 5, 10, 20)
+6. Introduce sortable columns
+7. Introduce a filter for searching by city name
 
 # Open weather API
 
@@ -55,13 +57,3 @@ If you return weather data on multiple cities, each city should contain the foll
 	},  
 ] 
 ```
-# Displaying the data in the app
-
-You are free to display the data as you wish, however try to include at least the following information: 
-
-|   City             |Weather|Description| Temperature
-|----------------|-------------------------------|-----------------|------|
-|London |Clouds            |mostly clear | 25|
-|Paris |Rain            |light rain            |23|
-|New York |Clouds|scattered clouds| 20|
-
