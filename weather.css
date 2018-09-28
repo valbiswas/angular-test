@@ -97,6 +97,7 @@ h1 {
   cursor: pointer;
   /* position: relative;
   left: -23px; */
+  user-select: none;
 }
 
 #row-filter {
