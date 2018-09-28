@@ -4,7 +4,7 @@
 let arrOfCities = [];
 
 //Fetch to get data from cities
-fetch("http://api.openweathermap.org/data/2.5/group?id=524901,703448,2643743,6539761,5992500,1796236,1275004,3117735,2650225,2636432,1838524,2640358,3936456,3871336,2509954,935113,184745,3530597,1857910,2988507&units=metric&APPID=194333f5b09188fbda8c4a3bbfea30b2")
+fetch("https://api.openweathermap.org/data/2.5/group?id=524901,703448,2643743,6539761,5992500,1796236,1275004,3117735,2650225,2636432,1838524,2640358,3936456,3871336,2509954,935113,184745,3530597,1857910,2988507&units=metric&APPID=194333f5b09188fbda8c4a3bbfea30b2")
 .then(response => response.json())
 .then((allCityJson) => {
   //console.log(allCityJson.list);
