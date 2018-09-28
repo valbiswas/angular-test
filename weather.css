@@ -80,6 +80,7 @@ h1 {
   font-size: 40px;
   padding: 0 20px 0 20px;
   font-family: "Comfortaa";
+  border: 1px solid #909090;
 }
 
 #table-header {
