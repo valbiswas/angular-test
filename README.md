@@ -1,5 +1,5 @@
 # Full stack developer - angular weather app
-This project will likely take up to two hours. You are not timed and can take as long as you wish to complete this project. You'll be creating a new angular project, interacting with a third party API and displaying the data. Finally you'll introduce some user friendly elements to the app.
+This project will likely take up to four hours. You are not timed and can take as long as you wish to complete this project. You'll be creating a new angular project, interacting with a third party API and displaying the data. Finally you'll introduce some user friendly elements to the app.
 1. Create a new branch (name it after you). 
 2. Create a new angular project with the features specified in this document
 3. Commit the weather app to your branch.
@@ -12,6 +12,9 @@ This project will likely take up to two hours. You are not timed and can take as
 5. Introduce configurable pagination (rows of 5, 10, 20)
 6. Introduce sortable columns
 7. Introduce a filter for searching by city name
+8. Write relavant test case
+9. Create a graph with a median of the average global temperature and then plot cities on each side of the graph as per temperature
+10. You can use 3rd party libraries/components
 
 # Open weather API
 
